@@ -1,7 +1,5 @@
-**VideCoding LiveDebugging**
+## **VideCoding LiveDebugging**
 
-I'm Pastorea
-
-I'm Hipotecado
-
-I'm LimónPicante
+I’m **[Pastorea](https://pastorea.es/)**  
+I’m **[Hipotecado](https://hipotecado.es/)**  
+I’m **LimónPicante**
